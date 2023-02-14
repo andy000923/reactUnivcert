@@ -1,0 +1,68 @@
+.slide1{
+    width:1432px;
+    margin: 0 auto;
+}
+.container{
+    width: 90%;
+    margin: 0 auto;
+    display : flex  !important;
+}
+
+.img-container{
+    width: 100%;
+    min-width: 900px;
+}
+.FrameImg{
+    width: 90%;
+    margin-left: 70px;
+}
+
+.frame-container{
+    width: 224px;
+    min-width: 200px;
+    position: block;
+    margin-left: 5%;
+}
+.Frame{
+    cursor : pointer;
+    width: 100%;
+    margin-top: 1px;
+}
+.reference{
+    margin-left: 5%;
+    margin-top: 20px;
+    width: 30%;
+}
+.Fmain{
+    margin-left: 5%;
+    margin-top: 12px;
+    width: 20px;
+}
+.Fexport{
+    margin-left: 5%;
+    margin-top: 12px;
+    width: 47px;
+}
+.gradle-container{
+    display: flex;
+    flex-direction: row;
+    padding: 16px;
+    margin-top: 3px;
+    margin-bottom: 10px;
+    margin-left: 107px;
+    margin-right: 69px;
+    background: #EBEFF4;
+    border-radius: 10px;
+}
+.code-container1{
+    font-size: 0.8rem;
+    line-height: 1rem;
+    margin-left: 10px;
+    font-family: GmarketSansMedium;
+}
+@font-face {
+    font-family: 'GmarketSansMedium';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansMedium.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }

@@ -1,0 +1,21 @@
+.frame1-container{
+    width: 144px;
+    min-width: 100px;
+    position: relative;
+}
+.Frame0{
+    cursor : pointer;
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: -5px;
+}
+.Frame1{
+    cursor : pointer;
+    width: 100%;
+    margin-top: -3px;
+}
+.reference1{
+    margin-left: 5%;
+    margin-bottom: 2px;
+    width: 30%;
+}
